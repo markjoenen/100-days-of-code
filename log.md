@@ -21,3 +21,13 @@
 1. [Java Programming](https://testautomationu.applitools.com/java-programming-course/chapter6d.html)
 2. [Pomodoro App](https://github.com/markjoenen/pomodoro.git)
 
+### Day 2: November 12, 2025
+
+**Today's Progress**: Stepped back a little bit from Ojects and studied other data types. One of the topics are about searching methods. Javadocs. Learned about constant variable. Studied about the enhanced loops. Looking forward to these as well!
+
+**Thoughts:** The session today concludes much earlier than I have expected. Studied a little bit about Data Types & Wrapper. I got a little busy. 6/10.
+
+**Link to work:** 
+1. [Java Programming](https://testautomationu.applitools.com/java-programming-course/chapter8a.html)
+2. [Pomodoro App](https://github.com/markjoenen/pomodoro.git)
+
