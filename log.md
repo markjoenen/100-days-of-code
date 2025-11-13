@@ -31,3 +31,13 @@
 1. [Java Programming](https://testautomationu.applitools.com/java-programming-course/chapter8a.html)
 2. [Pomodoro App](https://github.com/markjoenen/pomodoro.git)
 
+### Day 3: November 13, 2025
+
+**Today's Progress**: Worked on chapter 8 and learned about data types and wrappers for each type. 
+
+**Thoughts:** It is so hard for me to wrap my head around the OBB, I keep forgetting the difference of static costructor, fields, public and private. I might need to revisit previous chapters again to ensure that I'm correctly understanding these. I'm not sure maybe it's the tiredness from today's run but I don't want that to be an excuse. 7/10.
+
+**Link to work:** 
+1. [Java Programming](https://testautomationu.applitools.com/java-programming-course/chapter9a.html)
+2. [Pomodoro App](https://github.com/markjoenen/pomodoro.git)
+
