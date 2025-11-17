@@ -41,3 +41,13 @@
 1. [Java Programming](https://testautomationu.applitools.com/java-programming-course/chapter9a.html)
 2. [Pomodoro App](https://github.com/markjoenen/pomodoro.git)
 
+### Day 4: November 17, 2025
+
+**Today's Progress**: I'm on chapter 9 which is about Inheritance. It's pretty intuitive and going good.
+
+**Thoughts:** My eyes need to rest today. I feel so bad with today's work.
+
+**Link to work:** 
+1. [Java Programming](https://testautomationu.applitools.com/java-programming-course/chapter9d.html)
+2. [Pomodoro App](https://github.com/markjoenen/pomodoro.git)
+
