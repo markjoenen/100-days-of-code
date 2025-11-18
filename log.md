@@ -51,3 +51,13 @@
 1. [Java Programming](https://testautomationu.applitools.com/java-programming-course/chapter9d.html)
 2. [Pomodoro App](https://github.com/markjoenen/pomodoro.git)
 
+### Day 5: November 18, 2025
+
+**Today's Progress**: Finished studying inheritance & polymorphism topic. 
+
+**Thoughts:** Casting left an impression and sparked something in my brain on when and how to use it. 
+
+**Link to work:** 
+1. [Java Programming](https://testautomationu.applitools.com/java-programming-course/chapter10.html)
+2. [Pomodoro App](https://github.com/markjoenen/pomodoro.git)
+
