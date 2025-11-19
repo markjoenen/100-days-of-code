@@ -61,3 +61,13 @@
 1. [Java Programming](https://testautomationu.applitools.com/java-programming-course/chapter10.html)
 2. [Pomodoro App](https://github.com/markjoenen/pomodoro.git)
 
+### Day 6: November 19, 2025
+
+**Today's Progress**: Abstraction made the relationship between subclasses even more complicated.
+
+**Thoughts:** Abstraction sounds powerful but im not sure what it's use yet.
+
+**Link to work:** 
+1. [Java Programming](https://testautomationu.applitools.com/java-programming-course/chapter11b.html)
+2. [Pomodoro App](https://github.com/markjoenen/pomodoro.git)
+
